@@ -3,8 +3,6 @@
 """
 CityCompletion.py
 
-Refactored v3
-
 Features
 --------
 - Downloads Strava activities into SQLite
